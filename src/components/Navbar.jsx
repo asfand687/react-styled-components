@@ -11,7 +11,8 @@ const NavbarContainer = styled.div`
 `
 
 const NavbarWrap = styled.div`
-	width: 1200px;
+	max-width: 1200px;
+	width: 100%;
 	height: 100%;
 	margin: 0 auto;
 	z-index: 20;
